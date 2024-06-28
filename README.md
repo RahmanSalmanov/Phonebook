@@ -13,12 +13,8 @@ This is a simple command-line phonebook application implemented in Python. It al
 
 - Python 3.x
 
-## Installation and Usage
-
-1. Clone the repository:
-
    ```bash
-   git clone https://github.com/your-username/phonebook.git
+   git clone https://github.com/RahmanSalmanov/phonebook.git
 
 <!---
 RahmanSalmanov/RahmanSalmanov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
